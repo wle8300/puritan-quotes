@@ -8,15 +8,30 @@ Why? Nothing like this seems to exist. There are libraries with random quotes fr
 
 Created during a short solo hackathon. It took around 45mins to do with the majority of the time demangling the HTML from Grace Gems.
 
+## Usage
+
+The "no frills" way to use this library is to do a GET request directly to the raw data.json file.
+
+```
+curl https://raw.githubusercontent.com/wle8300/puritan-quotes/main/data.json
+```
+
+In the future, this library might also be published as a npm module so it can be used as a dependency.
+
 ## Contribute
 
 It's by no means exhaustive, so contribute your favorite Puritan quote by submitting a PR.
+
 
 ## Ideas for Using Puritan-Quotes
 
 1. Telegram Bot that posts daily quotes.
 2. Use it for a Lorem Ipsum generator.
 3. ???
+
+## Roadmap
+
+- Consider publishing as a npm module
 
 ## License
 
