@@ -1,6 +1,10 @@
 # Puritan Quotes
 
-The only file in this lib is a data.json which holds a plethora of quotes from Puritans, and early Reformers.
+This lib contains a plethora of quotes from the English Puritans, and early Reformers. The initial archive was sourced from the long-standing Reformed resource [Grace Gems](https://www.gracegems.org/30/puritan_quotes.htm).
+
+It's by no means exhaustive!
+
+If you'd like to submit your own Puritan quote... submit a PR!
 
 ## License
 
