@@ -1,3 +1,5 @@
+![Cover](Cover.png)
+
 # Puritan Quotes
 
 This lib contains a plethora of quotes from the English Puritans, and early Reformers. The initial commit contained ~350 quotes from the long-standing Reformed resource [Grace Gems](https://www.gracegems.org/30/puritan_quotes.htm).
