@@ -2,11 +2,11 @@
 
 # Puritan Quotes
 
-This lib contains a plethora of quotes from the English Puritans, and early Reformers. The initial commit contained ~350 quotes from the long-standing Reformed resource [Grace Gems](https://www.gracegems.org/30/puritan_quotes.htm).
+This lib contains a plethora of quotes from the English Puritans, and early Reformers.
 
-Why? Nothing like this seems to exist. There are libraries with random quotes from Albert Einstein or Walt Whitman... but nothing from Puritan Reformers. Their piety and intellectual powers at the zenith of the English language are something to behold, and as Christians, we can learn much.
+Why? Nothing like this seems to exist. There are JSON open-source collections with quotes from Albert Einstein, Walt Whitman, etc... but nothing from the Reformers. Their piety and intellectual powers at the zenith of the English language are something to behold, and as Christians, we can learn much.
 
-Created during a short solo hackathon. It took around 45mins to do with the majority of the time demangling the HTML from Grace Gems.
+Created during a short solo hackathon. It took around 45mins to do with the majority of the time demangling the HTML from [Grace Gems](https://www.gracegems.org/30/puritan_quotes.htm).
 
 ## Usage
 
